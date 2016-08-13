@@ -1,14 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <settings version="1.0">
-	<category name="eng.rc">
-		<category name="Window">
-			<property name="Left" type="integer">26</property>
-			<property name="Top" type="integer">26</property>
-			<property name="Right" type="integer">737</property>
-			<property name="Bottom" type="integer">394</property>
-			<property name="Maximized" type="integer">0</property>
-			<property name="Active" type="integer">0</property>
-		</category>
-	</category>
+	<category name="eng.rc" />
 	<category name="..\ids.h" />
 </settings>
