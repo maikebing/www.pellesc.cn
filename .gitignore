@@ -1,17 +1,10 @@
-# Object files
-*.o
+_site/*
+_theme_packages/*
 
-# Libraries
-*.lib
-*.a
+Thumbs.db
+.DS_Store
 
-# Shared objects (inc. Windows DLLs)
-*.dll
-*.so
-*.so.*
-*.dylib
+!.gitkeep
 
-# Executables
-*.exe
-*.out
-*.app
+.rbenv-version
+.rvmrc
