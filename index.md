@@ -7,7 +7,7 @@ tagline: PellesC 简体中文版
 
 官方版本请参见 [Pelles C](http://www.christian-heffner.de/)
 
-下载汉化包请下载: [rsrc0004.dll](rsrc0004.dll)
+下载汉化包请下载: [rsrc0004.dll](https://github.com/maikebing/www.pellesc.cn/releases/)
 
 ## 如何安装
 
