@@ -1,13 +1,17 @@
 ---
 layout: page
 title: PellesC.cn!
-tagline: PellesC 简体中文版
+tagline: Pelles C 简体中文版  
+
 ---
 {% include JB/setup %}
 
-官方版本请参见 [Pelles C](http://www.christian-heffner.de/)
+Pelles C 10.0 已经提供了最新的中文语言包。 
 
-下载汉化包请下载: [rsrc0004.dll](https://github.com/maikebing/www.pellesc.cn/releases/)
+最新下载地址：http://www.smorgasbordet.com/pellesc/
+
+本网站的使命已经完成， 如有任何想法， 可以发邮件至 100860505@.qq.com 
+
 
 ## 如何安装
 
